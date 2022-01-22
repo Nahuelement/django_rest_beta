@@ -72,7 +72,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-LANGUAGE_CODE = "en-GB"
+LANGUAGE_CODE = "es-Es"
 
 TIME_ZONE = "UTC"
 
